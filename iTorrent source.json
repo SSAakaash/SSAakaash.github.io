@@ -1,0 +1,35 @@
+{
+  "name": "iTorrent Source",
+  "identifier": "com.xitrix.iTorrent",
+  "apps": [
+    {
+      "name": "iTorrent",
+      "bundleIdentifier": "ru.nonamedude.iTorrent",
+      "developerName": "XITRIX",
+      "subtitle": "iOS Torrent client App"
+      "version": "1.8.3",
+      "versionDate": "2020-09-21",
+      "versionDescription": "* Patreon fix on iOS 14 \n* Libtorrent updated to 1.2.10",
+      "downloadURL": "https://github.com/XITRIX/iTorrent/releases/download/v1.8.3/iTorrent.ipa",
+      "localizedDescription": "It is an ordinary torrent client for iOS with Files app support.\n\nWhat can this app do:\nDownload in the background\nSequential download (use VLC to watch films while loading)\nAdd torrent files from Share menu (Safari and other apps)\nAdd magnet links directly from Safari\nStore files in Files app (iOS 11+)\nFile sharing directly from app\nDownload torrent by link\nDownload torrent by magnet\nSend notification on torrent downloaded\nWebDav Server\nSelect files to download or not\nChange UI to dark theme\nRSS Feed\n???",
+      "iconURL": "https://user-images.githubusercontent.com/9553519/80646366-3d271680-8a75-11ea-8b60-9c5edd4ffd60.png",
+      "tintColor": "ff0000",
+      "size": 4792897,
+      "screenshotURLs": [
+        "https://user-images.githubusercontent.com/9553519/80644526-7316cb80-8a72-11ea-95b5-e63531d81f35.png",
+        "https://user-images.githubusercontent.com/9553519/80644526-7316cb80-8a72-11ea-95b5-e63531d81f35.png",
+        "https://user-images.githubusercontent.com/9553519/80644526-7316cb80-8a72-11ea-95b5-e63531d81f35.png",
+	"https://user-images.githubusercontent.com/9553519/80644526-7316cb80-8a72-11ea-95b5-e63531d81f35.png",
+	"https://user-images.githubusercontent.com/9553519/80644526-7316cb80-8a72-11ea-95b5-e63531d81f35.png"
+      ]
+    }
+  "news": [
+    {
+      "title": "iTorrent is now on Altstore",
+      "identifier": "torrent-on-altstore",
+      "caption": "Download torrents directly on your iOS device.",
+      "tintColor": "ff0000",
+      "date": "2021-01-05",
+      "notify": false
+    }
+}
