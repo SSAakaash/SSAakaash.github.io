@@ -6,7 +6,7 @@
       "name": "iTorrent",
       "bundleIdentifier": "ru.nonamedude.iTorrent",
       "developerName": "XITRIX",
-      "subtitle": "iOS Torrent client App"
+      "subtitle": "iOS Torrent client App",
       "version": "1.8.3",
       "versionDate": "2020-09-21",
       "versionDescription": "* Patreon fix on iOS 14 \n* Libtorrent updated to 1.2.10",
@@ -22,7 +22,7 @@
 	"https://user-images.githubusercontent.com/9553519/80644526-7316cb80-8a72-11ea-95b5-e63531d81f35.png",
 	"https://user-images.githubusercontent.com/9553519/80644526-7316cb80-8a72-11ea-95b5-e63531d81f35.png"
       ]
-    }
+    ]}
   "news": [
     {
       "title": "iTorrent is now on Altstore",
@@ -31,5 +31,5 @@
       "tintColor": "ff0000",
       "date": "2021-01-05",
       "notify": false
-    }
+    }]
 }
